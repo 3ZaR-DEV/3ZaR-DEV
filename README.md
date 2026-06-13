@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/XJGfhkpb/Heading-Image.png" alt="header-image" title="About 3ZaR" align="center">
+<img src="https://i.postimg.cc/0NdNWznN/Heading-Image.png" alt="header-image" title="About 3ZaR" align="center">
 <br>
 <p align="center"><a href="https://t.me/EA_3ZaR" target="_blank"><img src="https://i.postimg.cc/Gp1PNyv8/TG-Badge.png" alt="TG-Badge" title="3ZaR's Telegram"></a></p>
 <p align="center"><a href="https://dribbble.com/3ZaR" target="_blank"><img src="https://i.postimg.cc/90NKtpRq/Dribbble-badge.png" alt="Dribbble-Badge" title="3ZaR's Dribbble"></a></p>
